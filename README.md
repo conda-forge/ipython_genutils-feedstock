@@ -33,7 +33,6 @@ conda search ipython_genutils --channel conda-forge
 ```
 
 
-
 About conda-forge
 =================
 
