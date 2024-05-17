@@ -3,9 +3,9 @@ About ipython_genutils
 
 Home: http://ipython.org
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Vestigial utilities from IPython
 

@@ -29,7 +29,7 @@ test:
 
 about:
   home: http://ipython.org
-  license: BSD 3-Clause
+  license: BSD-3-Clause
   summary: Vestigial utilities from IPython
 
 extra:
