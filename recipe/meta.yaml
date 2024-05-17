@@ -30,6 +30,8 @@ test:
 about:
   home: http://ipython.org
   license: BSD-3-Clause
+  license_family: BSD
+  license_file: LICENSE
   summary: Vestigial utilities from IPython
 
 extra:
